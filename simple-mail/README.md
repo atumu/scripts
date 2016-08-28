@@ -7,7 +7,5 @@
     
 ### step 2：    
     邮件接收账号（TargetMail）：from_name，to_addr,to_name
-    
-    
-    
+      
 ## 本人新手，有不对的或者更多想法请 pull requests

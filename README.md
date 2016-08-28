@@ -9,3 +9,6 @@
 | export-mysql-table-data-to-excel| 将MySQL表的数据输出到excel|
 | refresh-ip-to-git| bash+python+crontab，定期检查外网ip并刷新到git repo|
 | simple-mail| 简单的发送邮件util|
+
+
+## 本人新手，有不对的或者更多想法请 pull requests
