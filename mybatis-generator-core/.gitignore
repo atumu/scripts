@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/src/main/java/com
+/target/
+/src/main/resources/mybatis
+/src/main/resources/generatorConfig.xml
+/src/main/java/util/GeneratorSqlmap.java
+/.idea

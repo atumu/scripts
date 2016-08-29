@@ -1,0 +1,56 @@
+# mybatis-generator-core
+## 修改mybaies-generator-core源码，使其能生成中文注释
+
+Step 1:
+    
+    <!-- 修改 generatorConfig.xml TODO部分 -->
+    <context id="testTables" targetRuntime="MyBatis3">
+        <commentGenerator>
+            <!-- 是否去除自动生成的注释 true：是 ： false:否 -->
+            <property name="suppressAllComments" value="false"/>
+        </commentGenerator>
+
+        <!-- TODO 数据库连接的信息：驱动类、连接地址、用户名、密码,这里配置的是mysql的，当然也可以配置oracle等数据库 -->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/db"
+                        userId="user" password="passwd">
+        </jdbcConnection>
+
+        <!-- 默认false，把JDBC DECIMAL 和 NUMERIC 类型解析为 Integer，为 true时把JDBC DECIMAL 
+            和 NUMERIC 类型解析为java.math.BigDecimal -->
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+
+        <!--TODO targetProject:生成PO类的位置 -->
+        <javaModelGenerator targetPackage="com.atumu.sds.dao.entity"
+                            targetProject=".\src\main\java">
+            <!-- enableSubPackages:是否让schema作为包的后缀 -->
+            <property name="enableSubPackages" value="true"/>
+            <!-- 从数据库返回的值被清理前后的空格 -->
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <!--TODO targetProject:mapper映射文件生成的位置 -->
+        <sqlMapGenerator targetPackage="mybatis"
+                         targetProject=".\src\main\resources">
+            <!-- enableSubPackages:是否让schema作为包的后缀 -->
+            <property name="enableSubPackages" value="false"/>
+        </sqlMapGenerator>
+
+        <!-- TODO 指定数据库表 -->
+        <table tableName="tbl_zhl_fund_state_rate"
+               enableInsert="false"
+               enableDeleteByPrimaryKey="false"
+               enableUpdateByPrimaryKey="true"
+               enableCountByExample="false"
+               enableUpdateByExample="false"
+               enableDeleteByExample="false"
+               enableSelectByExample="false"
+               selectByExampleQueryId="false"/>
+    </context>
+    
+
+Step 2:
+
+    在GeneratorSqlmap.jva中修改 逆向工程系统地址，并运行 main() 方法
