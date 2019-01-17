@@ -1,0 +1,68 @@
+<div class="operation-edit-style02">
+			<span class="border-div"></span> 
+			<ul class="text-list">
+				<li>
+					<div class="icon-item">
+						<span class="iconfont"></span> 
+					</div>
+					<div class="text-content">
+						<div class=" popover ">
+							<div class="popover-content">
+								<div class="popover-text-title">
+									投保
+								</div>
+								<div class="popover-text-content">
+									陈先生,月末约了朋友一起去云南,预计出行10天,购买了<strong>美亚“驴行天下”境内旅游保障计划(计划A)</strong>1份,保障10天,仅花费26元。
+								</div>
+							</div>
+							<div class="arrow">
+							</div>
+							<div class="arrow2">
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="icon-item">
+						<span class="iconfont"></span> 
+					</div>
+					<div class="text-content">
+						<div class=" popover ">
+							<div class="popover-content">
+								<div class="popover-text-title">
+									出险
+								</div>
+								<div class="popover-text-content">
+									在爬山过程中不慎扭伤脚,随即到就近的二级医院去治疗,合理范围内开支800元。
+								</div>
+							</div>
+							<div class="arrow">
+							</div>
+							<div class="arrow2">
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="icon-item">
+						<span class="iconfont"></span> 
+					</div>
+					<div class="text-content">
+						<div class=" popover ">
+							<div class="popover-content">
+								<div class="popover-text-title">
+									理赔
+								</div>
+								<div class="popover-text-content">
+									陈先生随后拨打了慧择网客服电话进行报案,经核实获得保险公司赔偿800元。
+								</div>
+							</div>
+							<div class="arrow">
+							</div>
+							<div class="arrow2">
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>

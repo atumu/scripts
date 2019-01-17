@@ -1,0 +1,91 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							赵先生有一个上幼儿园的儿子赵宝宝，赵宝宝平时比较活泼好动，赵先生为了防范风险，让自己和家人安心，于是为宝宝购买了慧择安心保少儿疾病住院医疗保障，保障期限1年。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							出险
+						</div>
+						<div class="popover-text-content">
+							一次，宝宝不小心在幼儿园摔倒，导致左手受伤。门诊时在合理用药范围内花费医疗费用3000元，而后经医生建议住院5天，在合理用药范围内花费10000元（未有其他补偿途径）。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							理赔
+						</div>
+						<div class="popover-text-content">
+							<p>
+								<strong class="f14">保险公司经核实符合保险责任范围，作出如下赔付：</strong> 
+							</p>
+							<p>
+								意外门诊医疗保险金补偿给赵先生的金额是：(3000-100)×90%=2610元（100元免赔，90%赔付）
+							</p>
+							<p>
+								住院医疗保险金：
+							</p>
+							<p>
+								1. (1000-100)×50%=450
+							</p>
+							<p>
+								2. (5000-1000)×60%=2400
+							</p>
+							<p>
+								3. (10000-5000)×70%=3500
+							</p>
+							<p>
+								合计450+2400+3500=6350元住院医疗保险金（100元免赔，住院医疗费分级进行按比例赔付）
+							</p>
+							<p>
+								赵先生获得意外门诊医疗和住院医疗保险金赔付额合计：8960元。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

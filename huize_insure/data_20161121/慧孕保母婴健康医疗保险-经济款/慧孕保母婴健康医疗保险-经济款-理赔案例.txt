@@ -1,0 +1,108 @@
+<div class="operation-edit-style01">
+	<h4 class="operation-text-title">
+		投保
+	</h4>
+	<div class="operation-text-content f14">
+		徐女士，今年32岁，有一个女儿，因国家对生育政策逐步放开，自己也和丈夫商量计划再生一个孩子，故购买了一份 <strong>“慧孕保母婴健康医疗保险-经济款”</strong> 
+	</div>
+	<h4 class="operation-text-title">
+		被保人
+	</h4>
+	<div class="operation-text-content">
+		<table class="operation-text-table fc6 f14" width="100%">
+			<tbody>
+				<tr>
+					<td rowspan="3">
+						<img src="http://img.huizecdn.com/hz/www/page/detail-claims.gif" width="110" alt="" /> 
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>姓名：</strong> 
+							</div>
+							<div class="hz-media-content">
+								徐宛
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险金额：</strong> 
+							</div>
+							<div class="hz-media-content">
+								<strong class="primary-color">20万</strong> 
+							</div>
+						</div>
+					</td>
+					<td class="tac" rowspan="3">
+					</td>
+					<td class="tac" rowspan="3">
+						<strong>保险费：</strong> 
+						<div class="primary-color">
+							￥<span class="f36 ml5">227</span>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>性别：</strong> 
+							</div>
+							<div class="hz-media-content">
+								女
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险期间：</strong> 
+							</div>
+							<div class="hz-media-content">
+								1年
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>年龄：</strong> 
+							</div>
+							<div class="hz-media-content">
+								32
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>缴费方式：</strong> 
+							</div>
+							<div class="hz-media-content">
+								一次性
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<h4 class="operation-text-title">
+		所获得的保障
+	</h4>
+	<div class="operation-text-content fc6 f12 ">
+		<p class="pb10">
+			1、妊娠身故：20万元；
+		</p>
+		<p class="pb10">
+			2、婴儿严重先天畸形：2万元。
+		</p>
+	</div>
+</div>
+<div class="tac fc9 mt10 f12">
+	注：以上仅为案例，具体的保险给付条件及合同终止等内容以本产品条款为准。
+</div>

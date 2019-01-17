@@ -1,0 +1,73 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							小张,27岁,在国庆期间和朋友一起去黄山一日游,出发前为自己投保了众行天下-慧择户外运动-计划A,保费只需5元钱。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							出险
+						</div>
+						<div class="popover-text-content">
+							在旅行期间,小张爬山时不小心摔伤右腿,花费医疗费用1000元。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							理赔
+						</div>
+						<div class="popover-text-content">
+							<p>
+								<strong class="f14">保险公司经核实符合保险责任范围,作出如下赔付:</strong> 
+							</p>
+							<p>
+								补偿小张(1000-100)*100%=900元的意外医疗保险金。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

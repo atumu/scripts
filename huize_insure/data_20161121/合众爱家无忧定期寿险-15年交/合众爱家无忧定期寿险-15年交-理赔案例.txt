@@ -1,0 +1,111 @@
+<div class="operation-edit-style01">
+	<h4 class="operation-text-title">
+		投保
+	</h4>
+	<div class="operation-text-content f14">
+		江先生,30周岁,经朋友介绍为自己购买了一份 <strong>“合众爱家无忧定期寿险”</strong> 
+	</div>
+	<h4 class="operation-text-title">
+		被保人
+	</h4>
+	<div class="operation-text-content">
+		<table class="operation-text-table fc6 f14" width="100%">
+			<tbody>
+				<tr>
+					<td rowspan="3">
+						<img src="http://img.huizecdn.com/hz/www/page/detail-claims.gif" width="110" alt="" /> 
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>姓名：</strong> 
+							</div>
+							<div class="hz-media-content">
+								江晓
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险金额：</strong> 
+							</div>
+							<div class="hz-media-content">
+								<strong class="primary-color">30万</strong> 
+							</div>
+						</div>
+					</td>
+					<td class="tac" rowspan="3">
+					</td>
+					<td class="tac" rowspan="3">
+						<strong>保险费：</strong> 
+						<div class="primary-color">
+							¥<span class="f36 ml5">3030</span> 
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>性别：</strong> 
+							</div>
+							<div class="hz-media-content">
+								男
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险期间：</strong> 
+							</div>
+							<div class="hz-media-content">
+								70周岁
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>年龄：</strong> 
+							</div>
+							<div class="hz-media-content">
+								30
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>缴费方式：</strong> 
+							</div>
+							<div class="hz-media-content">
+								15年交
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<h4 class="operation-text-title">
+		所获得的保险利益
+	</h4>
+	<div class="operation-text-content fc6 f12 ">
+		<p class="pb10">
+			1、若江先生在180天等待期内由于疾病导致身故,保险公司将无息返还所交的本主合同的保险费3030元,本主合同终止。
+		</p>
+		<p class="pb10">
+			2、若江先生由于意外伤害导致身故或者180天等待期后由于疾病导致身故,保险公司按照合同约定给付30万元身故保险金,本主合同终止。
+		</p>
+		<p>
+			<br />
+		</p>
+	</div>
+</div>
+<div class="tac fc9 mt10 f12">
+	注：以上仅为案例，具体的保险给付条件及合同终止等内容以本产品条款为准。
+</div>

@@ -1,0 +1,73 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							慧先生，35周岁，购买了一份慧择人保综合意外险。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							出险
+						</div>
+						<div class="popover-text-content">
+							慧先生在下班途中不幸摔伤，在医院住院治疗10天，共花费医疗费用3200元。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							理赔
+						</div>
+						<div class="popover-text-content">
+							<p>
+								<strong class="f14">保险公司经核实符合保险责任范围,作出如下赔付:</strong> 
+							</p>
+							<p>
+								保险公司经核实，在扣除慧先生已从其他途径获得的1100元赔偿和100元免赔额后，补偿慧先生（3200-1100-100）*80%=1600元；另外因慧先生住院10天，保险公司从第四天开始给付100元/天的意外住院津贴，即700元。因此，慧先生一共可获得2300元的补偿。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

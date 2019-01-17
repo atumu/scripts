@@ -1,0 +1,73 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span>
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							郭先生,30周岁,因需要参加马拉松长跑运动,为以防万一,为自己购买了一份“众行天下”马拉松保障计划。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span>
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							出险
+						</div>
+						<div class="popover-text-content">
+							郭先生在参加马拉松长跑运动时,不幸摔伤导致右腿骨折,花费医疗费用2000元。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span>
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							理赔
+						</div>
+						<div class="popover-text-content">
+							<p>
+								<strong class="f14">保险公司经核实符合保险责任范围，作出如下赔付：</strong>
+							</p>
+							<p>
+								给付郭先生2000元意外医疗保险金。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

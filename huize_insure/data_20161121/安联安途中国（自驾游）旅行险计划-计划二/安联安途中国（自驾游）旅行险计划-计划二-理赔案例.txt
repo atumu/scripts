@@ -1,0 +1,73 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							李先生，国庆期间安排了黄山自驾车五日游，为了给自己一份安心，李先生购买了一份安联安途中国旅行险计划 计划一。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							出险
+						</div>
+						<div class="popover-text-content">
+							旅行期间，因车行驶在山间路段，轮胎不慎被扎破。
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span> 
+			</div>
+			<div class="text-content">
+				<div class=" popover">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							理赔
+						</div>
+						<div class="popover-text-content">
+							<p>
+								<strong class="f14">保险公司经核实符合保险责任范围，作出如下赔付：</strong> 
+							</p>
+							<p>
+								李先生立即拨打了安联的救援服务热线：400-800-2020，很快就迎来了安联救援的工作人员。由于是深夜，紧急换胎耗时较长，工作人员还为李先生安排了就近的酒店住宿，旅行圆满结束。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

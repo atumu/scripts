@@ -11,6 +11,8 @@ from email.header import Header
 from email.mime.text import MIMEText
 from email.utils import parseaddr, formataddr
 
+import sys
+
 
 class SimpleMail(object):
     def __init__(self, from_name, to_addr, to_name):
@@ -23,7 +25,7 @@ class SimpleMail(object):
 
     def _format_addr(self, s):
         name, addr = parseaddr(s)
-        return formataddr((Header(name, 'utf-8').encode(), addr.encode('utf-8') if isinstance(addr, unicode) else addr))
+        return formataddr((Header(name, 'utf-8').encode(), addr.encode('utf-8') if isinstance(addr) else addr))
 
     def sendmail(self, subject, content):
         try:
@@ -37,11 +39,11 @@ class SimpleMail(object):
             server.login(self.from_addr, self.from_passwd)
             server.sendmail(self.from_addr, [self.to_addr], msg.as_string())
             server.quit()
-            print "邮件发送成功"
-        except smtplib.SMTPException, e:
-            print "Error: 无法发送邮件, %s - %s" % (e.args[0], e.args[1])
-        except Exception, e:
-            print json.dumps(e.args)
+            print ("邮件发送成功")
+        except smtplib.SMTPException:
+            print ("Error: 无法发送邮件, %s - %s" % (sys.exc_info()[0].args[0], sys.exc_info()[0].args[1]))
+        except Exception:
+            print (json.dumps(sys.exc_info()[0].args))
 
 
 class TargetMail(SimpleMail):

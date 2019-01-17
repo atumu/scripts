@@ -15,9 +15,9 @@ import tablib
 
 host = '127.0.0.1'
 user = 'root'
-passwd = 'zhangL'
-db_name = 'test'  # TODO 目标数据库
-table_name = 'student'  # TODO 目标表
+passwd = 'root'
+db_name = 'hzins'  # TODO 目标数据库
+table_name = 'insure_product_info'  # TODO 目标表
 
 
 # 导出表数据到excel(字段注释作标题)
@@ -102,12 +102,11 @@ class DB():
                 if type(col) in (datetime.datetime, time.time):
                     date_indexs.append(i)
 
-            if len(date_indexs) > 0:
-                for i, row in enumerate(data):
-                    l = list(row)
-                    for index in date_indexs:
-                        l[index] = unicode(l[index])
-                    t_list.append(tuple(l))
+            for i, row in enumerate(data):
+                l = list(row)
+                for index in date_indexs:
+                    l[index] = unicode(l[index])
+                t_list.append(tuple(l))
             return tuple(t_list)
 
 

@@ -1,0 +1,58 @@
+<div class="operation-edit-style02">
+	<span class="border-div"></span> 
+	<ul class="text-list">
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span>
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							投保
+						</div>
+						<div class="popover-text-content">
+							退休工人高老师65岁，在家安享晚年，儿女外出打工，与老伴儿相依为命，日常早晚会出门溜溜弯儿，呼吸新鲜空气顺便活动下筋骨。过年前因雪天路滑，摔倒后在医院住院了一阵子，造成生活上很多不便。幸亏高老师早有准备，看到周围朋友年事较高，经常出现骨折等意外，考虑到自身状况，高老师早在出险前购买了“慧择‘回家看看’老年人意外保障计划”
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+		<li>
+			<div class="icon-item">
+				<span class="iconfont"></span>
+			</div>
+			<div class="text-content">
+				<div class=" popover ">
+					<div class="popover-content">
+						<div class="popover-text-title">
+							所获得的保障
+						</div>
+						<div class="popover-text-content">
+							<p>
+								1、9级骨折赔偿2000元；
+							</p>
+							<p>
+								2、骨折意外赔偿医疗费用4600元；
+							</p>
+							<p>
+								3、儿女回家看望的慰问补偿交通费2000元。
+							</p>
+							<p>
+								高老师花了99元，获得了合计8600元，在其不幸的遭遇中获得了慧择为其带来的一丝温暖。
+							</p>
+						</div>
+					</div>
+					<div class="arrow">
+					</div>
+					<div class="arrow2">
+					</div>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

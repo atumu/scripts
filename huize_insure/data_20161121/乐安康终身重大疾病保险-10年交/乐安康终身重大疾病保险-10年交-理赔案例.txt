@@ -1,0 +1,118 @@
+<p>
+	<br />
+</p>
+<h4 class="operation-text-title">
+	投保
+</h4>
+<div class="operation-text-content f14">
+	汪女士30岁,银行上班,最近有同事被诊断为恶性肿瘤,在医院全面接受治疗,引起了他对重疾保障的关注。经过对比,选择在慧择网购买了一份“<strong>乐安康终身重大疾病保险”。</strong><strong></strong> 
+</div>
+<h4 class="operation-text-title">
+	被保人
+</h4>
+<div class="operation-text-content">
+	<table class="operation-text-table fc6 f14" width="100%">
+		<tbody>
+			<tr>
+				<td rowspan="3">
+					<img src="http://img.huizecdn.com/hz/www/page/detail-claims.gif" width="110" alt="" /> 
+				</td>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>姓名:</strong> 
+						</div>
+						<div class="hz-media-content">
+							汪慧慧
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>保险金额:</strong> 
+						</div>
+						<div class="hz-media-content">
+							<strong><span style="color:#FF9900;">30万</span></strong> 
+						</div>
+					</div>
+				</td>
+				<td class="tac" rowspan="3">
+				</td>
+				<td class="tac" rowspan="3">
+					<strong>保险费:</strong> 
+					<div class="primary-color">
+						¥<span class="f36 ml5">6600</span> 
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>性别:</strong> 
+						</div>
+						<div class="hz-media-content">
+							女
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>保险期间:</strong> 
+						</div>
+						<div class="hz-media-content">
+							终身
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>年龄:</strong> 
+						</div>
+						<div class="hz-media-content">
+							30
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="hz-media-box">
+						<div class="hz-media-pic">
+							<strong>缴费方式:</strong> 
+						</div>
+						<div class="hz-media-content">
+							20年交
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<h4 class="operation-text-title">
+	所获得的保险利益
+</h4>
+<p>
+	<br />
+</p>
+<p class="pb10">
+	1、重大疾病保险金:30万元;<br />
+2、轻症疾病保险金:6万元,赔付以3次为限,累计18万为限;<br />
+3、身故保险金:30万元;<br />
+4、轻症疾病豁免保险费; <br />
+5、绿通雪中送炭:安排国内500多家知名三甲医院的专家进行诊断和治疗;<br />
+重疾绿色通道服务具体内容:专家门诊、专家病房、专家手术、电话随访、专家复诊、交通住宿补贴。
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<div class="tac fc9 mt10 f12">
+	注:以上仅为案例,具体的保险给付条件及合同终止等内容以本产品条款为准。
+</div>

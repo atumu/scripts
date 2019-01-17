@@ -1,0 +1,70 @@
+<div class="operation-edit-style02">
+<span class="border-div"></span>
+<ul class="text-list">
+<li>
+<div class="icon-item">
+<span class="iconfont"></span>
+</div>
+<div class="text-content">
+<div class=" popover">
+<div class="popover-content">
+<div class="popover-text-title">
+投保
+</div>
+<div class="popover-text-content">
+慧先生，35周岁，在慧择网购买了一份慧择人保公共交通工具意外险  基础计划，保障期限为7天.</strong>。
+</div>
+</div>
+<div class="arrow">
+</div>
+<div class="arrow2">
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="icon-item">
+<span class="iconfont"></span>
+</div>
+<div class="text-content">
+<div class=" popover ">
+<div class="popover-content">
+<div class="popover-text-title">
+出险
+</div>
+<div class="popover-text-content">
+端午放假3天，慧先生乘坐长途火车回家过节，不幸发生车祸当场身亡。
+</div>
+</div>
+<div class="arrow">
+</div>
+<div class="arrow2">
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="icon-item">
+<span class="iconfont"></span>
+</div>
+<div class="text-content">
+<div class=" popover ">
+<div class="popover-content">
+<div class="popover-text-title">
+理赔
+</div>
+<div class="popover-text-content">
+<p>
+保险公司向慧先生的家人赔偿了45万元的身故保险金。(该案例只作为对产品的辅助解释)
+</p>
+</div>
+</div>
+<div class="arrow">
+</div>
+<div class="arrow2">
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>

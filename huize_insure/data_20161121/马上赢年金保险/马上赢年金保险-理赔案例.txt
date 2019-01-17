@@ -1,0 +1,111 @@
+<div class="operation-edit-style01">
+	<h4 class="operation-text-title">
+		投保
+	</h4>
+	<div class="operation-text-content f14">
+		陈先生,35周岁,有感于自己父母现在的养老状况,想提前为自己的养老做准备。经过比较,他选择了投保马上赢年金保险,购买15份,每年交15000元基本保障3765元。则他可以获得的保障如下:<strong></strong> 
+	</div>
+	<h4 class="operation-text-title">
+		被保人
+	</h4>
+	<div class="operation-text-content">
+		<table class="operation-text-table fc6 f14" width="100%">
+			<tbody>
+				<tr>
+					<td rowspan="3">
+						<img src="http://img.huizecdn.com/hz/www/page/detail-claims.gif" width="110" alt="" /> 
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>姓名:</strong> 
+							</div>
+							<div class="hz-media-content">
+								陈亮
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险金额:</strong> 
+							</div>
+							<div class="hz-media-content">
+								<strong class="primary-color">3765元</strong> 
+							</div>
+						</div>
+					</td>
+					<td class="tac" rowspan="3">
+					</td>
+					<td class="tac" rowspan="3">
+						<strong>保险费:</strong> 
+						<div class="primary-color">
+							¥<span class="f36 ml5">15000</span> 
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>性别:</strong> 
+							</div>
+							<div class="hz-media-content">
+								男
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险期间:</strong> 
+							</div>
+							<div class="hz-media-content">
+								终身
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>年龄:</strong> 
+							</div>
+							<div class="hz-media-content">
+								35
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>缴费方式:</strong> 
+							</div>
+							<div class="hz-media-content">
+								10年交
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<h4 class="operation-text-title">
+		所获得的保险利益
+	</h4>
+	<div class="operation-text-content fc6 f12 ">
+		<p class="pb10">
+			1、生效日当日零时仍生存,可领取年金3765元;领取的年金可自动进入万能账户,保单犹豫期后可从万能账户中灵活领取<br />
+2、自36周岁的任一保单周年日零时仍生存,每年领取年金3765元;<br />
+3、如陈先生在此期间不幸全残,则向其返还已交保费或现金价值较大者,以及金管家账户价值;<br />
+4、如陈先生在此期间身故,则向其受益人返还已交保费或现金价值较大者,以及金管家账户价值,给其家人一个生活保障;
+		</p>
+		<p class="pb10">
+			<br />
+		</p>
+	</div>
+</div>
+<div class="tac fc9 mt10 f12">
+	注:以上仅为案例,具体的保险给付条件及合同终止等内容以本产品条款为准。
+</div>

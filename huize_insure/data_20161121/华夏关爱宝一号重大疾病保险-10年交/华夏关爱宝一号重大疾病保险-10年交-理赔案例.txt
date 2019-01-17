@@ -1,0 +1,112 @@
+<div class="operation-edit-style01">
+	<h4 class="operation-text-title">
+		投保
+	</h4>
+	<div class="operation-text-content f14">
+		徐女士32岁,经朋友介绍在慧择网为自己购买了一份“<strong>华夏关爱宝一号重大疾病保险</strong>”。<strong></strong> 
+	</div>
+	<h4 class="operation-text-title">
+		被保人
+	</h4>
+	<div class="operation-text-content">
+		<table class="operation-text-table fc6 f14" width="100%">
+			<tbody>
+				<tr>
+					<td rowspan="3">
+						<img src="http://img.huizecdn.com/hz/www/page/detail-claims.gif" width="110" alt="" /> 
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>姓名:</strong> 
+							</div>
+							<div class="hz-media-content">
+								徐菁华
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险金额:</strong> 
+							</div>
+							<div class="hz-media-content">
+								<span style="color:#FF9900;"><strong>20万</strong></span> 
+							</div>
+						</div>
+					</td>
+					<td class="tac" rowspan="3">
+					</td>
+					<td class="tac" rowspan="3">
+						<strong>保险费:</strong> 
+						<div class="primary-color">
+							¥<span class="f36 ml5">4078</span> 
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>性别:</strong> 
+							</div>
+							<div class="hz-media-content">
+								女
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>保险期间:</strong> 
+							</div>
+							<div class="hz-media-content">
+								终身
+							</div>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>年龄:</strong> 
+							</div>
+							<div class="hz-media-content">
+								32
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class="hz-media-box">
+							<div class="hz-media-pic">
+								<strong>缴费方式:</strong> 
+							</div>
+							<div class="hz-media-content">
+								20年交
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<h4 class="operation-text-title">
+		所获得的保险利益
+	</h4>
+	<div class="operation-text-content fc6 f12 ">
+		<p class="pb10">
+			1、轻症疾病保险金:4万元(限赔三次)<br />
+2、重大疾病保险金:20万元<br />
+3、 疾病终末期保险金:20万元<br />
+4、身故/全残保险金:20万元<br />
+(重大疾病保险金、身故保险金、全残保险金与疾病终末期保险金,仅给付其中一项)
+		</p>
+		<p class="pb10">
+			<br />
+		</p>
+	</div>
+</div>
+<div class="tac fc9 mt10 f12">
+	注:以上仅为案例,具体的保险给付条件及合同终止等内容以本产品条款为准。
+</div>

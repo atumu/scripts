@@ -1,0 +1,58 @@
+<div class="operation-edit-style02">
+                            <span class="border-div"></span>
+                            <ul class="text-list">
+                                <li>
+                                    <div class="icon-item"><span class="iconfont">&#xe743;</span></div>
+
+                                    <div class="text-content">
+                                        <div class=" popover ">
+                                            <div class="popover-content">
+                                                <div class="popover-text-title">投保</div>
+                                                <div class="popover-text-content">
+                                                   李先生,35岁,平时上班和周末全家出游都是自驾车,为了给家人一份安心,让自己无后顾之忧,为自己购买了1份畅享自驾-安联自驾车保障
+                                                </div>
+                                            </div>
+                                            <div class="arrow"></div>
+                                            <div class="arrow2"></div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <div class="icon-item"><span class="iconfont">&#xe742;</span></div>
+
+                                    <div class="text-content">
+                                        <div class=" popover ">
+                                            <div class="popover-content">
+                                                <div class="popover-text-title">出险</div>
+                                                <div class="popover-text-content">
+                                                   李先生从深圳开车往南宁,因汽车意外发生事故导致骨折,在医院治疗合理费用20000元。
+                                                </div>
+                                            </div>
+                                            <div class="arrow"></div>
+                                            <div class="arrow2"></div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <div class="icon-item"><span class="iconfont">&#xe733;</span></div>
+
+                                   
+                                    <div class="text-content">
+                                        <div class=" popover ">
+                                            <div class="popover-content">
+                                                <div class="popover-text-title">理赔</div>
+                                                <div class="popover-text-content">
+                                                    <p><strong class="f14">保险公司经核实符合保险责任范围，作出如下赔付：</strong></p>
+                                                    <p> 
+经核实后李先生得到保险公司19900元的赔付。</p>
+                                                </div>
+                                            </div>
+                                            <div class="arrow"></div>
+                                            <div class="arrow2"></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
