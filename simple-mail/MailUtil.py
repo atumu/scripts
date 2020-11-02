@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 __title__ = '邮箱工具类'
-__author__ = '张林'
 __mtime__ = '2016/6/23'
 """
 import json
@@ -56,16 +55,6 @@ class TargetMail(SimpleMail):
     def sendmail(self, subject, content):
         super(TargetMail, self).sendmail(subject, content)
 
-class Xiexiaomei(SimpleMail):
-    def __init__(self):
-        self.from_name = u'张大状'
-        self.to_addr = '1003742052@qq.com'
-        self.to_name = u'谢小美'
-        super(Xiexiaomei, self).__init__(self.from_name, self.to_addr, self.to_name)
-
-    def sendmail(self, subject, content):
-        super(Xiexiaomei, self).sendmail(subject, content)
-
 # 发送邮件
 if __name__ == '__main__':
-    Xiexiaomei().sendmail("谢小美你好","谢小美是最美的~")
+    TargetMail().sendmail("标题","内容")

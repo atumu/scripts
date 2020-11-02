@@ -7,3 +7,9 @@
 *.iml
 out
 gen
+/huize_insure/data/
+/huize_insure/data_20161121/
+/huize_insure/data_20161216/
+/huize_insure/data_20170502/
+/huize_insure/data_old/
+/export_excel_to_file/target.xlsx

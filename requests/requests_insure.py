@@ -3,10 +3,7 @@
 
 
 """
-@version: ??
-@author: zhangl
-@contact: zhanglin@miduo.com
-@site: https://www.miduo.com
+@version: ?
 @time: 2017/7/12 15:19
 """
 
@@ -52,7 +49,7 @@ if __name__ == '__main__':
             text = a.text.strip()
             for name in names:
                 if text == name:
-                    print text + "\t", "http://insurance.jrj.com.cn" + a.get('href') + "\t"
+                    print( text + "\t", "http://insurance.jrj.com.cn" + a.get('href') + "\t")
 
     _url = "http://insurance.jrj.com.cn/html/ic/list/ics.shtml"
     tree = html.fromstring(requests.get(_url).text)
@@ -61,4 +58,4 @@ if __name__ == '__main__':
         text = a.text.strip()
         for name in names:
             if text == name:
-                print text + "\t", "http://insurance.jrj.com.cn" + a.get('href') + "\t"
+                print (text + "\t", "http://insurance.jrj.com.cn" + a.get('href') + "\t")
