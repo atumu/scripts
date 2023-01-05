@@ -8,7 +8,7 @@
 @time: 2016/4/4 16:42
 """
 
-import MySQLdb
+import pymysql
 import xlsxwriter
 
 user = 'root'  # your username
@@ -36,7 +36,7 @@ sheet.freeze_panes(1, 0)
 column_headings = (u'名', u'主键', u'类型', u'长度', u'允许null', u'默认值', u'注释')
 sheet.write_row(0, 0, column_headings, format_headings)
 
-con = MySQLdb.connect(user=user, passwd=passwd, host=host, db='information_schema', charset='utf8')
+con = pymysql.connect(user=user, passwd=passwd, host=host, db='information_schema', charset='utf8')
 cursor = con.cursor()
 
 query_db = "select table_name,table_comment from tables where table_schema = '%s' group by table_name;" % db

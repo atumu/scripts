@@ -10,7 +10,7 @@
 import datetime
 import time
 
-import MySQLdb
+import pymysql
 import tablib
 
 host = '127.0.0.1'

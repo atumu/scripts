@@ -10,13 +10,13 @@
 @site: https://www.miduo.com
 @time: 2016/11/8 12:17
 """
-import sys
+# import sys
 
 import MySQLdb
 import xlrd
 
-reload(sys)
-sys.setdefaultencoding('utf-8')
+# reload(sys)
+# sys.setdefaultencoding('utf-8')
 
 # conn = MySQLdb.connect(user='test', passwd='test_miduo', host='192.168.4.88', db='hj_wealth_test', charset='utf8')
 conn = MySQLdb.connect(user='datagroup', passwd='3d2b4w+2y5n', host='210.14.141.146', db='miduo_db', charset='utf8')

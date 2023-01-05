@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# your hosts path
-#cd /opt/cron/hosts/
 # your ip file name and ip field name
 IP_FILE="ip"
 OLD_IP=0

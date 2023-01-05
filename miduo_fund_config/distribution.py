@@ -12,7 +12,7 @@
 """
 import sys
 
-import MySQLdb
+import pymysql
 import xlrd
 
 sys.setdefaultencoding('utf-8')
@@ -20,7 +20,7 @@ sys.setdefaultencoding('utf-8')
 
 
 # conn = MySQLdb.connect(user='test', passwd='test_miduo', host='192.168.4.88', db='hj_wealth_test', charset='utf8')
-conn = MySQLdb.connect(user='datagroup', passwd='3d2b4w+2y5n', host='210.14.141.146', db='miduo_db', charset='utf8')
+conn = pymysql.connect(user='datagroup', passwd='3d2b4w+2y5n', host='210.14.141.146', db='miduo_db', charset='utf8')
 cursor = conn.cursor()
 
 # 资产配置
