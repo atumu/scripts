@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # your hosts path
-cd /opt/cron/hosts/
+#cd /opt/cron/hosts/
 # your ip file name and ip field name
 IP_FILE="ip"
 OLD_IP=0
@@ -21,7 +21,7 @@ fi
 if [ "$NEW_IP" != "$OLD_IP" ]
 then
 echo $NEW_IP >$IP_FILE
-/root/bin/git add -A
-/root/bin/git commit -m "`date +%Y-%m-%d%t%H:%M:%S`"
-/root/bin/git push origin master
+/usr/bin/git add -A
+/usr/bin/git commit -m "`date +%Y-%m-%d%t%H:%M:%S`"
+/usr/bin/git push origin master
 fi
