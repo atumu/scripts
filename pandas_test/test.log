@@ -1,0 +1,77 @@
+2021-09-22 19:04:07,572 - root - ERROR - ('110110', 'not_found')
+2021-09-22 19:04:07,573 - root - ERROR - '燕山区'
+2021-09-22 19:04:07,575 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '燕山区'
+
+2021-09-22 19:04:10,707 - root - ERROR - ('110222', 'not_found')
+2021-09-22 19:04:10,708 - root - ERROR - '顺义县'
+2021-09-22 19:04:10,709 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '顺义县'
+
+2021-09-22 19:04:12,688 - root - ERROR - ('110223', 'not_found')
+2021-09-22 19:04:12,689 - root - ERROR - '通县'
+2021-09-22 19:04:12,689 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '通县'
+
+2021-09-22 19:04:13,902 - root - ERROR - ('110225', 'not_found')
+2021-09-22 19:04:13,903 - root - ERROR - '房山县'
+2021-09-22 19:04:13,903 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '房山县'
+
+2021-09-22 19:04:20,667 - root - ERROR - ('130122', 'not_found')
+2021-09-22 19:04:20,667 - root - ERROR - '获鹿县'
+2021-09-22 19:04:20,667 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '获鹿县'
+
+2021-09-22 19:04:21,331 - root - ERROR - ('130222', 'not_found')
+2021-09-22 19:04:21,332 - root - ERROR - '丰南县'
+2021-09-22 19:04:21,332 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '丰南县'
+
+2021-09-22 19:04:22,032 - root - ERROR - ('130226', 'not_found')
+2021-09-22 19:04:22,032 - root - ERROR - '迁安县'
+2021-09-22 19:04:22,033 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '迁安县'
+
+2021-09-22 19:04:22,718 - root - ERROR - ('130228', 'not_found')
+2021-09-22 19:04:22,718 - root - ERROR - '遵化县'
+2021-09-22 19:04:22,718 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '遵化县'
+
+2021-09-22 19:04:23,433 - root - ERROR - ('130422', 'not_found')
+2021-09-22 19:04:23,433 - root - ERROR - '武安县'
+2021-09-22 19:04:23,434 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '武安县'
+
+2021-09-22 19:04:25,993 - root - ERROR - ('130704', 'not_found')
+2021-09-22 19:04:25,993 - root - ERROR - '茶坊区'
+2021-09-22 19:04:25,993 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '茶坊区'
+
+2021-09-22 19:04:27,332 - root - ERROR - ('130707', 'not_found')
+2021-09-22 19:04:27,333 - root - ERROR - '庞家堡区'
+2021-09-22 19:04:27,334 - root - ERROR - Traceback (most recent call last):
+  File "C:\Project\Python\scripts\pandas_test\9.18_3_2.py", line 250, in <module>
+    line = " ".join([number, office_dic[county][1], office_dic[county][2], office_dic[county][3],
+KeyError: '庞家堡区'
+

@@ -1,0 +1,92 @@
+https://www.jianshu.com/p/cbc01d32c7b0
+
+说点废话
+当我们正常在界面系统使用selenium时，会感觉很爽，因为能清楚的看到我们代码的实现的过程，当遇到报错，也能相对来说缩小错误范围，一般都能很快的找到问题所在；
+倘若我们想在Linux环境（无界面）中使用selenium，虽然在官网可以下载到linux环境下的chromedriver驱动文件，但是如何配置才能成功运行，话不多说了，上配置流程吧！
+来点实货
+1、安装chrome
+用下面的命令安装Google Chrome
+yum install https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+也可以先下载至本地，然后安装
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+yum install ./google-chrome-stable_current_x86_64.rpm
+
+安装必要的库
+yum install mesa-libOSMesa-devel gnu-free-sans-fonts wqy-zenhei-fonts
+
+2、安装 chromedriver（末尾附chrome和chromedriver的对应版本）
+chrome官网
+wget https://chromedriver.storage.googleapis.com/2.38/chromedriver_linux64.zip
+淘宝源（推荐）
+wget http://npm.taobao.org/mirrors/chromedriver/2.41/chromedriver_linux64.zip
+
+将下载的文件解压，放在如下位置
+unzip chromedriver_linux64.zip
+mv chromedriver /usr/bin/
+给予执行权限
+chmod +x /usr/bin/chromedriver
+
+3、运行代码，查看是否成功（python下）
+from selenium import webdriver
+driver = webdriver.Chrome()
+
+chromedriver下载链接：
+http://chromedriver.storage.googleapis.com/index.html
+
+------------2019年兼容版本对照表-----------
+ChromeDriver 78.0.3904.11 (2019-09-12)---------Supports Chrome version 78
+ChromeDriver 77.0.3865.40 (2019-08-20)---------Supports Chrome version 77
+ChromeDriver 76.0.3809.12 (2019-06-07)---------Supports Chrome version 76
+ChromeDriver 75.0.3770.8 (2019-04-29)---------Supports Chrome version 75
+ChromeDriver v74.0.3729.6 (2019-03-14)--------Supports Chrome v74
+ChromeDriver v2.46 (2019-02-01)----------Supports Chrome v71-73
+
+送点东西
+selenium模式
+chrome_options.add_argument('--headless') # 无头模式，可不启用界面显示运行
+
+chrome_options.add_argument('--disable-gpu') # 禁用GPU加速
+
+chrome_options.add_argument('--start-maximized')#浏览器最大化
+
+chrome_options.add_argument('--window-size=1280x1024') # 设置浏览器分辨率（窗口大小）
+
+chrome_options.add_argument('log-level=3')
+
+chrome_options.add_argument('--user-agent=""') # 设置请求头的User-Agent
+
+chrome_options.add_argument('--disable-infobars') # 禁用浏览器正在被自动化程序控制的提示
+
+chrome_options.add_argument('--incognito') # 隐身模式（无痕模式）
+
+chrome_options.add_argument('--hide-scrollbars') # 隐藏滚动条, 应对一些特殊页面
+
+chrome_options.add_argument('--disable-javascript') # 禁用javascript
+
+chrome_options.add_argument('--blink-settings=imagesEnabled=false') # 不加载图片, 提升速度
+
+chrome_options.add_argument('--ignore-certificate-errors') # 禁用扩展插件并实现窗口最大化
+
+chrome_options.add_argument('–disable-software-rasterizer')
+
+chrome_options.add_argument('--disable-extensions')
+
+调用示例
+
+    ch_options = webdriver.ChromeOptions()
+
+    # 不加载图片,加快访问速度
+    ch_options.add_experimental_option("prefs", {"profile.mamaged_default_content_settings.images": 2})
+
+    # 此步骤很重要，设置为开发者模式，防止被各大网站识别出来使用了Selenium
+    ch_options.add_experimental_option('excludeSwitches', ['enable-automation'])
+    # ch_options.add_experimental_option("debuggerAddress", "127.0.0.1:9999")
+    ch_options.add_argument('--proxy--server=127.0.0.1:8080')
+    ch_options.add_argument('--disable-infobars')  # 禁用浏览器正在被自动化程序控制的提示
+    ch_options.add_argument('--incognito')
+    browser = webdriver.Chrome(options=ch_options)
+
+作者：江波波
+链接：https://www.jianshu.com/p/cbc01d32c7b0
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
